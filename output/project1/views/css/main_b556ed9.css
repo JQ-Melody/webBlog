@@ -1,0 +1,57 @@
+/* 
+* @Author: anchen
+* @Date:   2015-08-07 09:41:01
+* @Last Modified by:   anchen
+* @Last Modified time: 2015-08-13 10:42:35
+*/
+* {
+    margin:0;
+    padding:0;
+}
+
+.title {
+    text-align: center;
+}
+
+.main {
+    position: relative;
+    /*padding: 1px;*/
+    /*border: 1px solid red;*/
+    background-color: #ffd;
+    width: 800px;
+    height: 500px;
+}
+
+.outBorder {
+    background-color: #eea;
+    margin-top:50px;
+    width:500px;
+    height: 300px;
+}
+
+.box1 {
+    position: absolute;
+    top:10px;
+    left: 10px;
+    background-color: #0df;
+    width:100px;
+    height:100px;
+}
+
+.box2 {
+    background-color: #0dc;
+    width:100px;
+    height:100px;
+}
+
+.box3 {
+    background-color: #0da;
+    width:100px;
+    height:100px;
+}
+
+.box4 {
+    background-color: #0d8;
+    width:100px;
+    height:100px;
+}
